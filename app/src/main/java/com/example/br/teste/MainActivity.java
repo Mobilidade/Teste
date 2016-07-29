@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity  {
 
                     // permission was granted, yay! Do the
                     // contacts-related task you need to do.
-                    Toast.makeText(this, " Ok!!!!!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(this, " Ok!!!!!!!!", Toast.LENGTH_LONG).show();
 
                 } else {
                     Toast.makeText(this, " Negado!!!!!", Toast.LENGTH_LONG).show();
